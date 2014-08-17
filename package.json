@@ -1,0 +1,32 @@
+{
+	"name": "gulp-cmd-build",
+  	"version": "0.1.0",
+  	"description": "A plugin to find cmd module id and it's deps",
+  	"main": "index.js",
+  	"dependencies": {
+  	},
+  	"devDependencies": {
+	    "gulp-util": "~2.0.0",
+	    "through2": "~0.4.1"
+	},
+	"scripts": {
+	    "test": "test/"
+	},
+	"repository": {
+	    "type": "git",
+	    "url": "git://github.com/iamaddy/gulp-cmd-build.git"
+	},
+	"keywords": [
+	    "gulpplugin",
+	    "cmd-build"
+	],
+	"author": "addy <xuaddy@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+	    "url": "https://github.com/iamaddy/gulp-cmd-build/issues"
+	},
+	"engines": {
+	    "node": ">=0.8"
+	},
+	"private": true
+}
