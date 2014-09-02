@@ -1,4 +1,4 @@
 gulp-cmd-build
 ==============
 
-a plugin to find cmd module id and it's deps
+a plugin to find cmd module id and its deps
